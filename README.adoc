@@ -24,3 +24,4 @@ SIMD AVX2 vector
 
 link:https://asciinema.org/a/zBTjh9LmN6NmtopkwyYkx1LMg[Watch video]
 
+SIMD AVX2 vector
