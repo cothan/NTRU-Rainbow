@@ -3,7 +3,7 @@
 ## NTRUEES1499 speed
 
 |===
-| Module | Timming
+| Module | Timing
 |Keygen |  2654 us 
 | Encrypt | 64 us 
 | Decrypt | 83 us
@@ -16,7 +16,7 @@ SIMD AVX2 vector
 ## NTRUEES1087 speed 
 
 |===
-| Module | Timming
+| Module | Timing
 | Keygen | 1475 us
 | Encrypt| 46 us
 | Decrypt| 55 us 
