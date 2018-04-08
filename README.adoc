@@ -1,0 +1,26 @@
+# supercop-ntruees1449-1087-rainbow181212
+
+## NTRUEES1499 speed
+
+|===
+| Module | Timming
+|Keygen |  2654 us 
+| Encrypt | 64 us 
+| Decrypt | 83 us
+|===
+
+link:https://asciinema.org/a/reuPAC33KRLaEaShdZw3NMO41[Watch video]
+
+SIMD AVX2 vector 
+
+## NTRUEES1087 speed 
+
+|===
+| Module | Timming
+| Keygen | 1475 us
+| Encrypt| 46 us
+| Decrypt| 55 us 
+|===
+
+link:https://asciinema.org/a/zBTjh9LmN6NmtopkwyYkx1LMg[Watch video]
+
